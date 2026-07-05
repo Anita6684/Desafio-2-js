@@ -5,11 +5,11 @@ Proyecto desarrollado para practicar manipulación del DOM, eventos y estructura
 
 👉 Ver página web: https://anita6684.github.io/Desafio-2-js/
 
-link al punto 1 del desafio https://anita6684.github.io/Desafio-2-js/index.html
+👉 Link directo a:
 
-link al punto 2 del desafio https://anita6684.github.io/Desafio-2-js/stickers.html
-
-link al punto 3 https://anita6684.github.io/Desafio-2-js/password.html
+Punto 1 del desafio https://anita6684.github.io/Desafio-2-js/index.html
+Punto 2 del desafio https://anita6684.github.io/Desafio-2-js/stickers.html
+Punto 3 del desafio https://anita6684.github.io/Desafio-2-js/password.html
 
 ## Desafíos realizados
 
